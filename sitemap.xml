@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://junesqorialex.bmcc.com/index.html</loc>
+    <lastmod>2018-02-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://junesqorialex.bmcc.com/phone/index.html"/>
+    <image:image>
+      <image:loc>http://junesqorialex.bmcc.com/images/image09_en-crop-u140.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://junesqorialex.bmcc.com/mmp.html</loc>
+    <lastmod>2018-02-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://junesqorialex.bmcc.com/phone/mmp.html"/>
+    <image:image>
+      <image:loc>http://junesqorialex.bmcc.com/images/image09_en-crop-u639.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://junesqorialex.bmcc.com/ani.html</loc>
+    <lastmod>2018-02-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://junesqorialex.bmcc.com/phone/ani.html"/>
+    <image:image>
+      <image:loc>http://junesqorialex.bmcc.com/images/image09_en-crop-u660.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://junesqorialex.bmcc.com/vat.html</loc>
+    <lastmod>2018-02-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://junesqorialex.bmcc.com/phone/vat.html"/>
+    <image:image>
+      <image:loc>http://junesqorialex.bmcc.com/images/image09_en-crop-u670.png</image:loc>
+    </image:image>
+  </url>
+</urlset>
